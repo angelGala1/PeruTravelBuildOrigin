@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/peruTravel/static/css/main.3b5d569a.css",
+    "main.js": "/peruTravel/static/js/main.616691de.js",
+    "static/media/machu.jpg": "/peruTravel/static/media/machu.8ce8dfa386a48dfc7eda.jpg",
+    "static/media/machupichu.jpg": "/peruTravel/static/media/machupichu.881a7da4c7d38f9392a3.jpg",
+    "static/media/fondo1.jpg": "/peruTravel/static/media/fondo1.9320948b9573c083a2c4.jpg",
+    "index.html": "/peruTravel/index.html",
+    "main.3b5d569a.css.map": "/peruTravel/static/css/main.3b5d569a.css.map",
+    "main.616691de.js.map": "/peruTravel/static/js/main.616691de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b5d569a.css",
+    "static/js/main.616691de.js"
+  ]
+}
